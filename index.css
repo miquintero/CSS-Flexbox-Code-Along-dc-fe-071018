@@ -36,6 +36,7 @@ footer {
 .item {
   height: 100px;
   width: 100px;
+  flex-flow: row;
   margin: 5px;
   background-color: #FCF2EC;
 }
